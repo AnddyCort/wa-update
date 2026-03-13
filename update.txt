@@ -1,9 +1,9 @@
 WhatsApp
-. Plus ULTRA V5.2.1 VIP
+. Plus ULTRA V5.2.2 VIP
 
 Correcciones:
 	-Boton de Configuracion
 	-Notificaciones Flotantes
-
+ -Ocultar filtros de chat
 . ReMod By CTZ 2026
 . Descarga en nuestro canal de Telegram.
