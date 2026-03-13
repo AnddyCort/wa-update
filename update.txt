@@ -5,5 +5,7 @@ Correcciones:
 	-Boton de Configuracion
 	-Notificaciones Flotantes
 	-Ocultar filtros de chat
+	-Fondos animados
+
 . ReMod By CTZ 2026
 . Descarga en nuestro canal de Telegram.
